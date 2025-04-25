@@ -1,8 +1,8 @@
-# 🩺 Medical Test Management System (Shell Script)
+#  Medical Test Management System (Shell Script)
 
 This project is a simple yet functional shell scripting-based system developed on **Ubuntu (Linux)** to manage and retrieve **medical test data** for individual patients. It allows basic patient test record management through a **menu-driven interface** using standard shell utilities.
 
----
+
 
 ## Features
 
@@ -18,7 +18,7 @@ This project is a simple yet functional shell scripting-based system developed o
 - Delete existing test records
 - Input validation & error handling
 
----
+
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ This project is a simple yet functional shell scripting-based system developed o
 - Ubuntu (Linux)
 - Text files for data storage
 
----
+
 
 ## 📂 Project Structure
 
@@ -42,7 +42,6 @@ MedicalTest-Management/
 
 Follow the steps below to set up and run the Medical Test Management System:
 
----
 
 ### 1. Install Ubuntu (Linux Environment)
 
@@ -51,15 +50,15 @@ If you're not already using Linux:
 - Install **Ubuntu** on your machine directly, **or**
 - Use a **Virtual Machine** (e.g., VirtualBox) and install Ubuntu inside it
 
----
+
 
 ### 2. Install the Project
 
 Clone or download the project files into your Ubuntu system.
 ```
-git clone https://github.com/yourusername/MedicalTest-Management.git
+git clone https://github.com/yourusername/MedicalTest-Management.git](https://github.com/SaraA-2003/MedicalTestSystem_ShellScript.git)
 ```
----
+
 
 ### 3. Open the Project Directory
 
@@ -68,14 +67,13 @@ Navigate into the project directory using cd:
 cd MedicalTest-Management
 
 ```
----
+
 ### 4. Give Execute Permission to the Script
 Before running, make the script executable:
 ```
 chmod +x main.sh
 
 ```
----
 
 ###  5. Run the Application
 Run the script using one of the following commands:
